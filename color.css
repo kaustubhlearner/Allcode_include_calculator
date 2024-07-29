@@ -1,0 +1,21 @@
+.first{
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    position: absolute;
+    position: relative;
+    left: 200px;
+    display: flex;
+ 
+}
+.second{
+    height: 100px;
+    width: 100px;
+    border: 2px solid green;
+    position: relative;
+    left: 100px;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
